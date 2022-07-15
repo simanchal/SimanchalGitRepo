@@ -1,4 +1,4 @@
-package com.linkedin.tools;
+package com.my.tools;
 // Lets say you have a dataset
 
 // Country    State City               Users

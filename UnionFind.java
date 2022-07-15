@@ -1,4 +1,4 @@
-package com.linkedin.tools;
+package com.my.tools;
 
 import java.util.List;
 import java.util.PriorityQueue;

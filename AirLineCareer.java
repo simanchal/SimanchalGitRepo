@@ -1,4 +1,4 @@
-package com.linkedin.tools;
+package com.my.tools;
 
 public abstract class AirLineCareer {
   TravelClass _class;
